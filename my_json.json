@@ -1,5 +1,5 @@
   { "whouchat" : {
-        "build": 18,
+        "build": 17,
         "message": "A new version of this app is available on the play store. Please update it fron play store. Click on the update now to go to store, if you do not found the update option then refresh the play store page.",
         "link" : "https://play.google.com/store/apps/details?id=com.whou.chat"
     },
